@@ -1,1 +1,0 @@
-# HackRPI-PyTorch-Template
